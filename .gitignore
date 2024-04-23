@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+VideoPlayer/Binaries/
+VideoPlayer/Config/
+VideoPlayer/.vsconfig
+VideoPlayer/UpgradeLog.htm
+VideoPlayer/Intermediate/
+VideoPlayer/Saved/
